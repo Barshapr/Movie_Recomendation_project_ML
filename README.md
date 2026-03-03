@@ -70,7 +70,7 @@ Add user ratings feature
 This project is open-source and available under the MIT License.
 
 👩‍💻 Author
-Rashmita Mohapatra
+Barsha Priyadarsini Mishra
 B.Tech CSE (AI/ML Enthusiast)
 
 ⭐ If you like this project, don't forget to star the repository!
