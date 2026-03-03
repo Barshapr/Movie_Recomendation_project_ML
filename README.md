@@ -1,16 +1,21 @@
 # Movie_Recomendation_project_ML
 MY FIRST ML PROJECT
 USING ML ALGORITHMS
+----------------------------------------------------------------------------------------
+
 🎬 Movie Recommendation System (AI/ML Project)
 📌 Project Overview
 This project is a Movie Recommendation System built using Machine Learning techniques.
 It recommends movies similar to the one selected by the user. The system is built using:
+
 
 Python
 Pandas
 Scikit-learn
 Streamlit (for web interface)
 The recommendation logic is based on a content-based filtering approach using a precomputed similarity matrix.
+----------------------------------------------------------------------------------------------------------
+
 
 🚀 Features
 Interactive web app built with Streamlit
