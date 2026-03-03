@@ -112,6 +112,8 @@ Similarity**.
 This project is open-source and available under the MIT License.
 
 ------------------------------------------------------------------------
+CLICK HERE TO OPEN THE WEBSITE http://localhost:8501/
+
 
 ## 👩‍💻 Author
 
